@@ -1,0 +1,10 @@
+ShellSort:  native: 1000    æs     Array_1D: 1999    æs     vector: 2000    æs
+HeapSort:   native: 0       æs     Array_1D: 2001    æs     vector: 4002    æs
+MergeSort:  native: 0       æs     Array_1D: 2000    æs     vector: 2001    æs
+QuickSort:  native: 0       æs     Array_1D: 0       æs     vector: 2000    æs
+ForceBubble:native: 4000    æs     Array_1D: 89060   æs     vector: 156103  æs
+FlagBubble: native: 3002    æs     Array_1D: 87058   æs     vector: 153102  æs
+Selection:  native: 1000    æs     Array_1D: 29018   æs     vector: 52035   æs
+Insertion:  native: 1001    æs     Array_1D: 22015   æs     vector: 39025   æs
+BinaryInser:native: 0       æs     Array_1D: 16010   æs     vector: 26017   æs
+ShakerSort: native: 2000    æs     Array_1D: 59039   æs     vector: 113073  æs
